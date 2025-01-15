@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "es"
-title                    : "Francisco Farías Sepúlveda | Ingeniero Civil Eléctrico"
+title                    : "Francisco Farías Sepúlveda"
 title_separator          : "-"
 name                     : &name "Francisco Farías S."
 description              : &description "personal description"
@@ -22,9 +22,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpeg"
-  name             : "Francisco Javier"
+  name             : "Francisco Farías S."
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "B.S in Electrical Engineering \n Overhead Power Lines Designs \n Currently employed by Conexión Energía \n developing the first HVDC project in Chile"
   location         : "Chile"
   employer         : "Conexión Energía"
   uri              : # URL
