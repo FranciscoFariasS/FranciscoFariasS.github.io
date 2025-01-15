@@ -18,5 +18,34 @@ Education
   * Teaching Assistant to Analysis and Design of Electrical
     Circuits and to the Electronics Laboratory
   * Recipient of Best Teaching Body, June 2022
+ 
+Work experience
+======
+* Transmission Line Analyst, Conexión Energía, Jan. 2023 - Present
+  * Reviewed and addressed the electromechanical
+ engineering of the ± 600 kV HVDC Kimal - Lo Aguirre
+ project.
+  * Collaborated with specialists to determine project's
+ environmental impact.
+  * Technical resources related to the OHL detailed design
+ were developed.
+
+Skills
+======
+* Skill 1
+* Skill 2
+  * Sub-skill 2.1
+  * Sub-skill 2.2
+  * Sub-skill 2.3
+* Skill 3
+
+Certification
+======
+*  PLS-CADD Specialization Program
+*  TOWER Specialization Program
+*  Environmental Regulations in Chile
+*  Areas of Influence in Environmental
+ Studies
+* Environmental Evaluation System
 
 
